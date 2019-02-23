@@ -59,3 +59,6 @@ typings/
 
 # next.js build output
 .next
+
+# Don't build Bootstrap docs
+bootstrap_4-3-1/site/docs/
